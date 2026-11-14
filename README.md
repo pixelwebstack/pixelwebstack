@@ -1,6 +1,4 @@
-<p align="center"><a href="https://pixelwebstack.com/"><img src="https://pixelwebstack.com/wp-content/uploads/2026/11/pixel-web-stack-1-768x281.webp" width="190" alt="Pixel Web Stack official logo"></a></p>
-
-[![Better Websites. Stronger Business.](./profile-hero.svg)](https://pixelwebstack.com/)
+[![Better Websites. Stronger Business.](./profile-hero.svg?v=2)](https://pixelwebstack.com/)
 
 ## About Pixel Web Stack
 
