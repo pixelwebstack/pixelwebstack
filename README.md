@@ -1,4 +1,4 @@
-[![Better Websites. Stronger Business.](./pixel-web-stack-hero.svg)](https://pixelwebstack.com/)
+[![Better Websites. Stronger Business.](https://raw.githubusercontent.com/pixelwebstack/pixelwebstack/refs/heads/main/pixel-web-stack-hero.svg)](https://pixelwebstack.com/)
 
 ## About Pixel Web Stack
 
