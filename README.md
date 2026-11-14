@@ -1,4 +1,4 @@
-[![Better Websites. Stronger Business.](./profile-hero.svg?v=2)](https://pixelwebstack.com/)
+[![Better Websites. Stronger Business.](./pixel-web-stack-hero.svg)](https://pixelwebstack.com/)
 
 ## About Pixel Web Stack
 
