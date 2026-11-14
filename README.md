@@ -1,6 +1,8 @@
-# Pixel Web Stack
+<p align="center"><a href="https://pixelwebstack.com/"><img src="https://pixelwebstack.com/wp-content/uploads/2026/11/pixel-web-stack-1-768x281.webp" width="190" alt="Pixel Web Stack official logo"></a></p>
 
-![Pixel Web Stack — WordPress, full-stack development, and AI automation](./profile-hero.svg)
+[![Better Websites. Stronger Business.](./profile-hero.svg)](https://pixelwebstack.com/)
+
+## About Pixel Web Stack
 
 **Web development and AI solutions for businesses and digital agencies.**
 
@@ -10,12 +12,14 @@ We build WordPress websites, WooCommerce stores, and custom web applications. We
 
 ## What we do
 
-- **WordPress development.** Build or redesign responsive websites with Divi 5, Elementor, Bricks, or custom WordPress themes and plugins. We can help with migrations, performance, and technical SEO.
-- **WooCommerce and eCommerce.** Build storefronts that make it easy to browse products, check out, and manage orders. Connect payment and other business tools as needed.
-- **Full-stack development.** Build custom web applications, dashboards, and APIs that fit the way your business operates. Connect existing systems and third-party services to reduce duplicate work.
-- **AI engineering and integration.** Add AI assistants, agents, chatbots, and workflow automation to websites or internal tools where they can reduce manual effort.
+- **[WordPress development](https://pixelwebstack.com/wordpress-development/).** Build or redesign responsive websites with Divi 5, Elementor, Bricks, or custom WordPress themes and plugins. We can help with migrations, performance, and technical SEO.
+- **[WooCommerce and eCommerce](https://pixelwebstack.com/woocommerce-development/).** Build storefronts that make it easy to browse products, check out, and manage orders. Connect payment and other business tools as needed.
+- **[Full-stack development and custom applications](https://pixelwebstack.com/full-stack-development/).** Build custom web applications, dashboards, and APIs that fit the way your business operates. Connect existing systems and third-party services to reduce duplicate work.
+- **[AI engineering, agents, and business automation](https://pixelwebstack.com/ai-automation/).** Add AI assistants, agents, chatbots, and workflow automation to websites or internal tools where they can reduce manual effort.
 
 ## Technologies we work with
+
+<img src="https://cdn.simpleicons.org/wordpress/2563EB" width="26" alt="WordPress"> &nbsp; <img src="https://cdn.simpleicons.org/woocommerce/7C3AED" width="26" alt="WooCommerce"> &nbsp; <img src="https://cdn.simpleicons.org/react/2563EB" width="26" alt="React"> &nbsp; <img src="https://cdn.simpleicons.org/typescript/2563EB" width="26" alt="TypeScript"> &nbsp; <img src="https://cdn.simpleicons.org/nodedotjs/7C3AED" width="26" alt="Node.js">
 
 | Area | Tools and capabilities |
 | --- | --- |
@@ -43,4 +47,4 @@ Talk directly with the people building your project. We agree on the scope early
 
 Tell us what you’re building, what your team needs to do more easily, and when you’d like to launch.
 
-[Start a project with Pixel Web Stack](https://pixelwebstack.com/contact/) · [Email us](mailto:pixelwebstack@gmail.com)
+[Start a project with Pixel Web Stack](https://pixelwebstack.com/contact/) · [pixelwebstack@gmail.com](mailto:pixelwebstack@gmail.com)
