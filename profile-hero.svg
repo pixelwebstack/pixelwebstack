@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 290" role="img" aria-labelledby="title desc">
+  <title id="title">Pixel Web Stack</title>
+  <desc id="desc">WordPress, full-stack development, and AI automation.</desc>
+  <defs><linearGradient id="accent"><stop stop-color="#2563EB"/><stop offset="1" stop-color="#7C3AED"/></linearGradient></defs>
+  <rect width="960" height="290" rx="22" fill="#0F172A"/>
+  <path d="M735 290 840 0h98q22 0 22 22v246q0 22-22 22Z" fill="url(#accent)" opacity=".5"/>
+  <path d="M58 70h70" stroke="url(#accent)" stroke-width="7" stroke-linecap="round"/>
+  <g font-family="system-ui,Segoe UI,sans-serif" fill="#FFFFFF">
+    <text x="54" y="155" font-size="67" font-weight="700">Pixel Web Stack</text>
+    <text x="58" y="211" font-size="27">WordPress · Full-stack development · AI automation</text>
+  </g>
+</svg>
