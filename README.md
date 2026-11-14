@@ -1,5 +1,7 @@
 # Pixel Web Stack
 
+![Pixel Web Stack — WordPress, full-stack development, and AI automation](./profile-hero.svg)
+
 **Web development and AI solutions for businesses and digital agencies.**
 
 We build WordPress websites, WooCommerce stores, and custom web applications. We also connect your tools and automate repetitive workflows so your team can spend more time serving customers. Based in Khulna, Bangladesh, we work with clients internationally.
